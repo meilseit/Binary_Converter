@@ -1,4 +1,6 @@
 
 
 def BinaryConverter():
-    return
+    #hey baby
+    x = 5
+    return x
